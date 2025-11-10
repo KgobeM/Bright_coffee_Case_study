@@ -1,6 +1,3 @@
-Of course! Here’s a **grammar-corrected and polished version** of your original text — keeping your tone and structure, but making it clear, professional, and easy to read:
-
----
 
 # ☕ Bright Coffee Sales Analysis
 
@@ -45,8 +42,4 @@ To address this, promotional strategies — such as targeted discounts and speci
 * **Snowflake** – Data storage, querying, and analysis
 * **Microsoft Excel** – Data cleaning and exploration
 * **Microsoft PowerPoint** – Visualization and presentation of key insights
-
----
-
-Would you like me to make this version more **formal and corporate** (for a presentation/report) or more **GitHub-friendly** (with Markdown formatting, emojis, and a project summary style)?
 
