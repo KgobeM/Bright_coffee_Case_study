@@ -6,7 +6,7 @@ This case study also analysizes products that sell the most during peak hours an
 
 # Process 
 In this project I used the provided raw data to write a code to assist the company with the neeeded analysis for the project at hand 
-The case study was done in the following process CODE, EXPORT,VISUALIZE this process assist the company in understanding the business and proving insights needed for the organizations rapid growth
+The case study was done in the following process CODE, EXPORT,VISUALIZE.this process assist the company in understanding the business and proving insights needed for the organizations rapid growth
 
 # Insights 
 The insights provided are based on the sales analysis done and what the company neeeds in order to cover the short fall in the different coffee shops 
@@ -16,4 +16,7 @@ The major feasible insight was to suggest that the coffee shops that are under p
 In the analysis it was found that there are stores that are low performing compared to others this was then backed by the insight of amazing deals to boost the sales 
 
 # Tools used for analysis 
-Snowflake and Microsoft Excel
+Snowflake
+Microsoft Excel
+Microsoft Powerpint
+
